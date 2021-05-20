@@ -1,0 +1,1 @@
+web: gunicorn zavrad:server
